@@ -14,12 +14,12 @@ Yin Ue “Tianna” Chan is a senior pursuing a B.S. in Mathematics/ Economics w
 Irvin Ramirez is a senior pursuing a B.A. in Sociology. He is a student who is interested in GIS and Urban Planning and hopes to improve his skills with web mapping through this course. After graduation he plans to work for a tech start up in Mexico City, Mexico. 
  
  **Leonela Aguilar** <br>
-(Image) <br>
-INTRODUCTION
+<img src="https://wspucla.files.wordpress.com/2021/06/thumbnail_leonela-aguilar_photo.jpg" width="200" <br>
+Leonela Aguilar (she/her/hers) is a fourth year transfer student majoring in Sociology and minoring in Digital Humanities. She is interested in expanding her tech skills and learning more about GIS mapping. Post-grad, she plans on immerseing herself in the tech industry and to further represent more Latina's in these spaces along the way. 
  
 ## Overview
-The research inquiry focuses on the usage of different messaging platforms in different countries/ areas of the world. This is a matter of importance in comparing and analyzing the preferences of messaging platforms used in different regions to understand consumer choices.
- 
+Our research aims to analyze the most popular hashtags mentioned in each U.S state. Twitter is a popular social media platform in the U.S that captivates social, political, and economic events. By analyzing these hastags, we will identify relevant hashtags that reveal socioeconomic patterns within that geographic scope. 
+
 Potential Research Questions:
 Why are specific social media platforms more influential in other regions more than others? 
 How does the main social media app used in said region influence the consumers of their surrounding area? 
